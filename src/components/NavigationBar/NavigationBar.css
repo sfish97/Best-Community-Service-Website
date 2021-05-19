@@ -1,0 +1,22 @@
+#links{
+    color:white;
+    padding: 0px 25px;
+}
+
+#dropDownLinks{
+    color:black;
+}
+
+#basic-nav-dropdown{
+    color: white;
+    padding: 0px 25px;
+}
+
+#brand{
+    display: flex;
+    align-items: center;
+}
+
+#brandImg{
+    padding: 7px 14px;
+}
